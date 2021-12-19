@@ -42,6 +42,8 @@ Publish the website in the given URL.
 
 ![output](./images/ass1.png)
 ![output](./images/ass2.png)
+![output](./images/ass3.png)
+![output](./images/ass4.png)
 
 
 ## Result:
